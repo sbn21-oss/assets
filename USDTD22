@@ -1,0 +1,16 @@
+{
+  "name": "Tether",
+  "website": "https://communipass.art",
+  "description": "Our USDT is a community-driven ERC-20 token on Ethereum built to empower everyday users with accessible decentralized financial tools including donations peer-to-peer payments gifting and community rewards within the communipass.art ecosystem.",
+  "explorer": "https://etherscan.io/token/0xAdb1BC6f4D8EabfB953813566443932104Da6D22",
+  "symbol": "USDT",
+  "decimals": 6,
+  "status": "active",
+  "id": "0xAdb1BC6f4D8EabfB953813566443932104Da6D22",
+  "links": [
+    { "name": "twitter", "url": "https://x.com/StableL6462" },
+    { "name": "coinmarketcap", "url": "https://dex.coinmarketcap.com/token/ethereum/0xadb1bc6f4d8eabfb953813566443932104da6d22/" },
+    { "name": "whitepaper", "url": " https://d2xsxph8kpxj0f.cloudfront.net/310419663029712297/cvH67Y67f8zzxitAvXgJ9D/CommuniPass_Whitepaper_55d04a27.pdf" }
+  ],
+  "tags": ["stablecoin"]
+}
